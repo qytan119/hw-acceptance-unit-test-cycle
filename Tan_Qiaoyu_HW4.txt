@@ -1,0 +1,14 @@
+--------------------- github link -----------
+https://github.com/qytan119/hw-acceptance-unit-test-cycle
+
+------------- spec log file link ------------
+https://github.com/qytan119/hw-acceptance-unit-test-cycle/blob/master/logfile_spec.txt
+
+------------- cucumber log file link ------------
+https://github.com/qytan119/hw-acceptance-unit-test-cycle/blob/master/logfile_cucumber.txt
+
+
+
+
+
+
